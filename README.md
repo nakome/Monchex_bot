@@ -1,4 +1,4 @@
-# Configuración de ```.env```
+# La idea
 
 La idea de crear un bot de Telegram surge de lo de siempre, a la hora de buscar por ejemplo un texto lorem tengo que abrir la página buscar el enlace y copiarlo y ahora con el comando ```/lorem_sm[md][xl]``` ya lo tengo, o un password, o una plantilla básica de html5. Aparte de esto támbien fue por curiosidad de como funcionan los bots de Telegram y intentare actualizarlo cuando me sea posible.
 
